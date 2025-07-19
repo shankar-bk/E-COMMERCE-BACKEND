@@ -12,7 +12,7 @@
 
 "MENTOR": NEELA SANTOSH
 
-##I created the backend for an e-commerce website using Express.js and MySQL. The system lets users sign up, log in, view products, and place orders. Admins can add, edit, or delete products. I used bcrypt to keep passwords safe and JWT tokens to protect user sessions. Users can place orders, and the system saves the details in the database. I tested everything using Postman to make sure all features work well. The backend is safe, easy to use, and ready to be connected to any shopping website frontend.
+#I created the backend for an e-commerce website using Express.js and MySQL. The system lets users sign up, log in, view products, and place orders. Admins can add, edit, or delete products. I used bcrypt to keep passwords safe and JWT tokens to protect user sessions. Users can place orders, and the system saves the details in the database. I tested everything using Postman to make sure all features work well. The backend is safe, easy to use, and ready to be connected to any shopping website frontend.
 
 # OUTPUT:
 
